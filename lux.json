@@ -1,0 +1,14 @@
+{
+    "api_portal":"https://api.lux24h.news/api",
+    "version_app":"1.0.2",
+    "vapp":"1.0.0",
+    "api_web":"https://api.lux24h.news/api",
+    "urlUpdate":"",
+    "link_manifest":"http://wssloc.club/m/",
+    "is_change_manifest":1,
+    "update":0,
+    "updatejs":1,
+    "api_send_error":"http://35.234.51.15:8081/api",
+    "opc":0,
+    "openGame":1
+}
